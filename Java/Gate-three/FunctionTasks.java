@@ -32,18 +32,46 @@ public class FunctionTasks      {
             int[] newArray = new int[digit];
 
             for (int count = 0; count < number.length; count++)     {
-
-                
-
-                
-
                         }
-
-        
-
 
                 }
 
             }
 
-        }
+
+
+
+        public static String letter (String characters)         {
+
+        int count = 0;
+        for int counter = 0; counter < characters.length(; counter++ )       {
+
+            if (alphabet.charAt[counter])       {
+        
+                count += 1;
+
+
+                        }
+
+                }
+
+        
+
+            }
+public static double [][] multiDimensionalArray (double[][]number])        {
+
+    double[] largest = 0;
+
+    for (int count = 0; count < number.length; count++)     {
+
+        for (int index = 0; count < number.length; count++)     {
+
+
+                    }
+                }
+
+            }
+
+        
+
+}
